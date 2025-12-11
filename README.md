@@ -94,7 +94,7 @@ robot -d ./logs -v BROWSER:webkit tests/signup.robot
 
 ## 🤝 Credits
 
-- **App Development:** The WalkDog web application was developed by [**Fernando Papito**](https://github.com/papitodev)).
+- **App Development:** The WalkDog web application was developed by [**Fernando Papito**](https://github.com/papitodev).
 - **Automation Author:** This automation project was developed by [**Rafael Manso**](https://github.com/rafaeltmanso).
 
 
