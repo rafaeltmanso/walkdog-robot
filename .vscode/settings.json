@@ -1,0 +1,6 @@
+{
+    "robotcode.robot.args": [
+        "-d",
+        "logs"
+    ]
+}
